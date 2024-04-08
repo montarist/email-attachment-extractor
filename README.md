@@ -1,5 +1,6 @@
 
 # Email Attachment Extractor
+[![Python application test](https://github.com/montarist/email-attachment-extractor/actions/workflows/python_app_test_workflow.yml/badge.svg)](https://github.com/montarist/email-attachment-extractor/actions/workflows/python_app_test_workflow.yml)
 
 ## Overview
 This tool extracts attachments from emails stored in .eml files. It is designed to be simple to use and effective at handling large batches of emails.
